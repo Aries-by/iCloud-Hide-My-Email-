@@ -16,6 +16,8 @@ iCloud 隐藏我的邮件 (Hide My Email) 高级管理器
 
 ✨ 核心特性
 <img width="714" height="531" alt="image" src="https://github.com/user-attachments/assets/87da6235-b153-4ea7-80fe-956f8310d7d4" />
+<img width="1913" height="1000" alt="image" src="https://github.com/user-attachments/assets/aabf583d-3afa-4102-99af-1d39646af45b" />
+
 
 
 🍏 沉浸式 macOS 原生 UI
