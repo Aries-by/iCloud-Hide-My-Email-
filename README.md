@@ -13,6 +13,8 @@ iCloud 隐藏我的邮件 (Hide My Email) 高级管理器
 邮箱后缀必须为 @icloud.com：为了在注册 ChatGPT 等高风控平台时完美规避检测，请确保您生成的别名后缀是原生的 @icloud.com（享受 Apple 官方域名的极高信任权重）。如果使用其他自定义域名后缀，极大概率依然会触发手机号码验证或图形验证拦截。
 
 ✨ 核心特性
+<img width="714" height="531" alt="image" src="https://github.com/user-attachments/assets/87da6235-b153-4ea7-80fe-956f8310d7d4" />
+
 
 🍏 沉浸式 macOS 原生 UI
 
